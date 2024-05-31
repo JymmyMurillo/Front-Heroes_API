@@ -1,7 +1,6 @@
 // const API_URL = "http://localhost:3000";
 
-const API_URL =
-  "https://heroes-api-mongo-db-talento-tech-bntnoo48d.vercel.app";
+const API_URL = "https://heroes-api-mongo-db-talento-tech.vercel.app";
 
 const api = {
   getHeroes: async () => {
